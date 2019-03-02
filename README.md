@@ -1,4 +1,4 @@
-# MoveBoard App](https://devpost.com/software/change-name-later/)
+# [MoveBoard App](https://devpost.com/software/change-name-later/)
 
 ## Inspiration
 We found that a lack of honesty is a prevalent problem in society that can create tension between friends. For example, when people are talking about what kinds of tricks they've done on their skateboard, they're often prone to exaggeration. This makes it really hard to discern the truth from the exaggerated truth. We wanted to create an easy way for skateboarders and snowboarders to track their trick metrics and share them with their friends in an accountable, open way!
